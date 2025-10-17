@@ -260,11 +260,10 @@ coupons: code, discount_type, value, expires_at, usage_limit
 
 ## Contact / Author
 
-**Author:** Your Name
+**Author:** James Christopher
 
-* GitHub: `https://github.com/your-username`
-* Email: `your.email@example.com`
-  *(Replace placeholders with real contact details.)*
+* GitHub: `https://github.com/jamesChristopher-dev`
+* Email: `jameschristopher.contact@gmail.com`
 
 ---
 
