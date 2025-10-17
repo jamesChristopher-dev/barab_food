@@ -275,15 +275,3 @@ Specify a license for this repository (e.g., MIT). Example:
 ```
 MIT License — see LICENSE file for details.
 ```
-
----
-
-### Final notes
-
-* Copy this `README.md` to your repository and replace placeholder contact & repo links.
-* Add screenshots / GIFs in the repo root for higher recruiter conversion.
-* If you want, I can also:
-
-  * generate a `package.json` tuned to this project,
-  * create an example Express API (`server.js`) with basic menu/reservation endpoints and JWT auth, or
-  * produce a CI workflow YAML for GitHub Actions ready to paste into `.github/workflows/`.
